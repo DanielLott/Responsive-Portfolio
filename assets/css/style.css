@@ -3,9 +3,9 @@
 }
 
 body {
-	background-image: url("../images/mesa-panoramic-clip-2x-reflect-4K-height.jpg");
+	/* background-image: url("../images/mesa-panoramic-clip-2x-reflect-4K-height.jpg");
 	background-attachment: fixed;
-	background-position: 5% 100%;
+	background-position: 5% 100%; */
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -14,15 +14,15 @@ body {
 	position: fixed;
 	bottom: 0;
 	left: 0;
-	/* height: 100%;
-	width: 100%; */
-	/* background-size: 100%; */
-	-webkit-background-size: 2650px 1440px;
+	height: 2160px;
+	width: 4708px;
+	/* background-size: 4708px 2160px; */
+	/* -webkit-background-size: 4708px 2160px; */
 	background-image: url("../images/mesa-panoramic-clip-2x-reflect-4K-height.jpg");
 	/* background-attachment: fixed; */
-	    background-repeat: no-repeat;
-	background-attachment: scroll;
-	background-size: cover;
+	    /* background-repeat: no-repeat; */
+	/* background-attachment: scroll; */
+	/* background-size: cover; */
 }
 
 body, a:hover {
