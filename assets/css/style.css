@@ -17,6 +17,7 @@ body {
 	/* height: 100%;
 	width: 100%; */
 	background-size: 100%;
+	-webkit-background-size: 2650px 1440px;
 	background-image: url("../images/mesa-panoramic-clip-2x-reflect-4K-height.jpg");
 	background-attachment: fixed;
 }
